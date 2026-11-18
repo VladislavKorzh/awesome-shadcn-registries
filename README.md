@@ -3,7 +3,7 @@
 A curated list of shadcn-compatible registries — places you can point
 `npx shadcn@latest add` at to pull in components, blocks, and themes.
 
-**42 registries**, each verified against its own `r/registry.json` endpoint. Install
+**50 registries**, each verified against its own `r/registry.json` endpoint. Install
 instructions live on each project's site; links go straight there.
 
 ### Legend
@@ -25,11 +25,13 @@ instructions live on each project's site; links go straight there.
 
 ## Component libraries
 
+- [Agents UI](https://livekit.com/products/agents-ui) · `Licence` — LiveKit's voice-agent frontend: five audio visualizers, control bar, chat transcript and session view.
 - [Arc UI](https://uiarc.dev/) · `Pro` — 246 animated components and 130 blocks, structured so agents can install them.
 - [chanhdai components](https://chanhdai.com/components) — 49 individually crafted pieces, from an Apple hello effect to haptics.
 - [coss ui](https://coss.com/ui) — 53 Base UI primitives, the library behind Cal.com, plus chat UI and 530 particles.
 - [Cubby UI](https://www.cubby-ui.dev/) — Base UI components with unusual care: text morph, circular slider, QR code.
 - [Fluid Functionalism](https://www.fluidfunctionalism.com/) — 37 components sharing one motion system, in Radix and Base UI flavours.
+- [Gauge UI](https://www.gauge-ui.dev/) — composable SVG gauge primitives: speedometers, dials, meters and clocks from arcs, ticks, zones and needles.
 - [Iconiq UI](https://iconiqui.com/) — 79 components with restrained motion, plus a drag-to-build bento grid editor.
 - [ikada](https://sproutboat.com/ikada/) — 42 components and 11 dashboard blocks, the same files behind Sproutboat.
 - [Keyframery](https://keyframery.com/) — 63 animated components for Vercel UI SDK, with motion in plain CSS.
@@ -39,6 +41,7 @@ instructions live on each project's site; links go straight there.
 - [SortUI](https://sortui.dev/docs/components) · `Pro` — 65 components with strong AI-chat coverage; landing sections are paid.
 - [SPEC-01/HARDWARE](https://spec-01.vercel.app/) — 61 hardware-skin controls for Vercel UI SDK: keys, knobs, dials, LCDs.
 - [ssych ui](https://ssych.com/) · `Pro` — 134 fintech components: order books, candlesticks, market heatmaps, agent runs.
+- [Supabase Library](https://supabase.com/library) — Auth, storage and Realtime components in Next.js, React, React Router and TanStack flavours.
 - [termcn](https://www.termcn.dev/) — shadcn-style components for terminal apps, on Ink and OpenTUI.
 - [usva](https://usva.build/) — an opinionated design system: 63 quiet components, 14 loud ones, 3 themes.
 
@@ -49,6 +52,7 @@ instructions live on each project's site; links go straight there.
 - [EvilCharts](https://evilcharts.com/) — charts on Recharts or ECharts, 300+ items including calendar heatmaps and sankey.
 - [gridcn](https://gridcn.vercel.app/) — a data grid with spreadsheet clipboard, range selection and a fill handle.
 - [Liquid Charts](https://liquid.ojieame.design/) · `Licence` — 58 charts where the material follows the data: liquid, glass, flat or tilt.
+- [Studio Blocks](https://studio-blocks.arhamkhnz.com/) — 23 minimal dashboard blocks: KPI cards, charts, tables, forms and sidebars.
 
 ## Themed & styled kits
 
@@ -57,6 +61,7 @@ instructions live on each project's site; links go straight there.
 - [Bevel](https://bevel-ui.vercel.app/) — 50 skeuomorphic controls, each modelled on a real patented object.
 - [LiquiKit](https://liquikit.dev/) — liquid glass controls with physically based refraction.
 - [nostalgia-ui](https://www.nostalgia-ui.com/) — Mac OS 9 components in pure CSS, zero image assets.
+- [PlopUI](https://plopui.com/) — hand-drawn components: wobbly sticker buttons, washi-tape tags and a hand-lettered font, still WCAG AA.
 - [The Gridcn](https://thegridcn.com/) — Tron theme system with HUD components and Three.js effects.
 - [UI95](https://www.ui95.dev/ui) — every shadcn component as Windows 95, plus CRT, taskbar and terminal blocks.
 
@@ -64,6 +69,8 @@ instructions live on each project's site; links go straight there.
 
 - [Canvas UI](https://canvasui.dev/) · `Licence` — HTML-in-Canvas effects for WebGL and WebGPU, in six framework flavours.
 - [Componentry](https://componentry.dev/) — 53 effect-forward pieces: WebGL liquid, dither prisms, particle typography.
+- [Crafter UI](https://www.crafterui.com/) — motion and interaction pieces: dynamic island, mercury dial, molten ring and corridor carousels.
+- [Limeplay](https://limeplay.winoffrg.dev/) — video and audio player UI on Shaka Player: timeline, volume, captions, PiP and playback rate.
 - [Remocn](https://remocn.dev/) — 932 Remotion components for building video in React.
 - [snapcn](https://snapcn.dev/) · `Pro` — Remotion shots for product demos: captions, terminals, device frames.
 - [Tweenly](https://trytweenly.vercel.app/) — 74 animated components across Motion and GSAP, with a live prop playground.
@@ -71,6 +78,7 @@ instructions live on each project's site; links go straight there.
 ## Domain registries
 
 - [Flagcn](https://flagcn.dev/) — 306 flags plus country, phone, language and currency inputs.
+- [mapcn](https://www.mapcn.dev/) — 10 MapLibre GL maps: choropleths, heatmaps, delivery tracking, store locators and a community globe.
 - [OrganUI](https://organui.com/) · `Licence` — 82 healthcare components, including 42 rotatable 3D organs.
 - [PluginUI](https://pluginui.com/) — controls for audio plugin interfaces: knobs, meters, envelopes.
 - [shadcnmaps](https://www.shadcnmaps.com/) — 170+ interactive SVG maps, themeable and keyboard accessible.
